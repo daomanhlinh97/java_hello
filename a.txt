@@ -1,3 +1,9 @@
 ccgivays
 2
+asdsadasd
+
+<<<<<<< .mine
 haha
+=======
+deohieu
+>>>>>>> .theirs
