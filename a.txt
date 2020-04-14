@@ -1,6 +1,2 @@
 ccgivay
-<<<<<<< .mine
-ccgivay
-=======
-cha hieu noi
->>>>>>> .theirs
+2
