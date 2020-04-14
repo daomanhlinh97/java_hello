@@ -1,1 +1,6 @@
 ccgivay
+<<<<<<< .mine
+ccgivay
+=======
+cha hieu noi
+>>>>>>> .theirs
