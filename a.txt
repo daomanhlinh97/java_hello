@@ -1,4 +1,11 @@
 ccgivays
 2
+ssss
+sd
+asdsadasd<<<<<<< .mine
 sd
 asdsadasd
+=======
+ssss
+
+>>>>>>> .theirs
